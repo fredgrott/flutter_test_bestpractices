@@ -5,3 +5,5 @@
 Collection of Flutter Test Best Practices
 
 ## Articles
+
+[Missing Fluttter Test Best Practices](https://medium.com/p/missing-flutter-test-best-practices-b7c651884da5)

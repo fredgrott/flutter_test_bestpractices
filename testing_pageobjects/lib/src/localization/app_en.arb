@@ -1,0 +1,6 @@
+{
+  "appTitle": "testing_pageobjects",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}

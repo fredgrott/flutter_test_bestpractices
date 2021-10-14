@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite errors="0" failures="0" tests="1" skipped="0" name="D:.fredgrttsstuff.GithubProjects.flutter_test_bestpractices.testing_adv.test.home_screen" timestamp="2021-10-13T22:28:10">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname="D:.fredgrttsstuff.GithubProjects.flutter_test_bestpractices.testing_adv.test.home_screen" name="appbar test AppBar Title is Sample Items" time="1.57"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" tests="1" skipped="0" name="D:.fredgrttsstuff.GithubProjects.flutter_test_bestpractices.testing_adv.test.unit" timestamp="2021-10-13T22:28:10">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname="D:.fredgrttsstuff.GithubProjects.flutter_test_bestpractices.testing_adv.test.unit" name="Plus Operator should add two numbers together" time="0.019"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" tests="1" skipped="0" name="D:.fredgrttsstuff.GithubProjects.flutter_test_bestpractices.testing_adv.test.widget" timestamp="2021-10-13T22:28:10">
+    <properties>
+      <property name="platform" value="vm"/>
+    </properties>
+    <testcase classname="D:.fredgrttsstuff.GithubProjects.flutter_test_bestpractices.testing_adv.test.widget" name="MyWidget should display a string of text" time="0.923"/>
+  </testsuite>
+</testsuites>

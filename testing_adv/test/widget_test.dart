@@ -12,6 +12,20 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
+
+  // setUpAll and tearDownAll for full test suite
+  // then setUp and tearDown per group if needed
+
+  
+  setUpAll(() async {
+    // required for all unit testing to ensure the Flutter Engine is fully
+    // initialized before tests are fully run
+    TestWidgetsFlutterBinding.ensureInitialized();
+
+  });
+
+  // ignore: no-empty-block
+  tearDownAll(() async {});
   group('MyWidget', () {
     testWidgets('should display a string of text', (WidgetTester tester) async {
       // Define a Widget

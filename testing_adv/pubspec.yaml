@@ -33,7 +33,9 @@ dev_dependencies:
   #mocking nav
   mockingjay: ^0.1.1
   #bdd widget testing
-  bdd_widget_test: ^1.2.0
+  given_when_then: ^0.2.0
+  # hamcrest style matchers
+  matcher: ^0.12.11
 
 
 
